@@ -3,7 +3,7 @@
 
 CriticalBigdata   is known as  Complex Bigdata  will  be  in  text,  date, nos  a  new  concept  invented  by   wilmix  jemin  j ,used  in  H@
 H@  takes  complex  data  as  input  and  evaluate  it. H@  is  used  in  BIGDATA  manipulation  like  hadoop.
-H@  also  serves  as  a    assistant  for  printing  details  from   wdbajdollar  database.
+H@  also  serves  as  a    assistant  for  printing  details  from   wdbajdollar  database. 
 
 for  eg) Syntax  may  be in  the  format  given  below  in   text  file.
 
